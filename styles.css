@@ -5,7 +5,7 @@ text-align: center;
 
 .large
 {
-color:rosybrown;
+color:green;
 font-size: large;
 }
 
@@ -17,7 +17,7 @@ font-size: medium;
 
 .small
 {
-    color:blueviolet;
+color:red;
 font-size: small;
 }
 
