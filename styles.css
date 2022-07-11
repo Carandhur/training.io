@@ -1,0 +1,23 @@
+.centered
+{
+text-align: center;
+}  
+
+.large
+{
+color:rosybrown;
+font-size: large;
+}
+
+.medium
+{
+color: orange;
+font-size: medium;
+}
+
+.small
+{
+    color:blueviolet;
+font-size: small;
+}
+
